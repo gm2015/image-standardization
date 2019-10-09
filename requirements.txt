@@ -1,0 +1,2 @@
+# Install PIL
+pip3 install Pillow
